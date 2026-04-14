@@ -1,0 +1,15 @@
+ala_glass_app/
+│
+├── android/
+│   └── placeholder.txt
+│
+├── ios/
+│   └── placeholder.txt
+│
+├── lib/
+│   └── main.dart
+│
+├── pubspec.yaml
+├── codemagic.yaml
+├── analysis_options.yaml
+└── README.md
